@@ -1,18 +1,20 @@
-INSERT INTO burgers (
+INSERT INTO burgers
+    (
     burger_name,
     devoured
-) VALUES
-(
-    'King Burger',
-    0
+    )
+VALUES
+    (
+        'King Burger',
+        0
 ),
-(
-    'Chicken Bacon Ranch',
-    0
+    (
+        'Chicken Bacon Ranch',
+        0
 ),
-(
-    'Big Texas Burger',
-    0
+    (
+        'Big Texas Burger',
+        0
 );
 
 -- INSERT INTO burgers (burger_name) VALUES ('King Burger');
